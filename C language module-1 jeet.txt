@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main();
+{
+	printf("Name : Jeet Hathi .S.");
+	printf("Birth date : 06-12-2005");
+	printf("Age : 17 years");
+	printf("Address : "Parishram",Jivan Anand Society,B/h M.V. Mahila college,
+	Nr.Amarnath Mahadev Mandir,Rajkot - 360007");
+	return 0;
+}
