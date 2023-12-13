@@ -1,21 +1,23 @@
-#include <stdio.h>
+#include<stdio.h>
 void main()
 {
-    int x[3][3];
-    printf("Enter 9 values : ");
-    for(int i=0;i<3;i++)
+    int x[4][4],total=0;
+    printf("Enter the 16 values : ");
+    for(int i=0;i<4;i++)
     {
-        for(int j=1;j<=3;j++)
+        for(int j=0;j<4;j++)
         {
             scanf("%d",&x[i][j]);
         }
-        printf("\nX : \n");
+        printf("\nX : \t\n");
     }
-    for(int i=0;i<3;i++)
+    total=0;
+    for(int i=0;i<4;i++)
     {
-        for(int j=1;j<=3;j++)
+        for(int j=0;j<4;j++)
         {
-            printf("\t%d",x[i][j]);
+            printf("\t %d ",x[i][j]);
         }
         printf("\n");
     }
+}
