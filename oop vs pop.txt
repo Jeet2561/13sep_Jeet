@@ -1,0 +1,22 @@
+OOP vs POP
+
+oop is more secured 
+pop is less secured
+
+oop stands for object oriented programming
+pop srands for procedural oriented programming
+
+oop follows bottom to top approach
+pop follows top to bottom approach
+
+oop is faster than pop
+pop is slower than oop
+
+oop is complex
+pop is simpler
+
+oop gives importance to the object
+pop gives importance to procedure
+
+oop follows the object concept
+pop follows the function

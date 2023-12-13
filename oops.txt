@@ -1,0 +1,19 @@
+what is oops ? list the concepts of oops.
+
+oops stands for object oriented programming.
+it is considered to be more secured than pop(procedural oriented programming).
+oops follows bottom to top approach.
+in oops the object is given importance.
+IT IS MORE secured.
+
+OOP Concepts : 
+1. class
+2. inheritance
+3. object
+4. encapsulation
+5. polymorphism
+6. abstraction
+7. constructor
+8. destructor
+9. function/method overloading
+10. function/method overriding
